@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Saumik Das:
+# 💫 Hi, I'm Saumik Das
 I’m a Full Stack MERN Developer passionate about building fast, scalable, and user-friendly web applications. From backend APIs to sleek frontends, I bring ideas to life with clean code and modern design.
 
 
